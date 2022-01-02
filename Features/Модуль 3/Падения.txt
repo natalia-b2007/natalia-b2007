@@ -1,0 +1,48 @@
+Падения 7
+
+1
+_024004 create SI using form link/unlink
+Unable to move to the required line in <BasisesTree> table.
+Невозможно перейти на нужную строку в таблице <BasisesTree>
+Quantity равно 5 в таблице, а в проверке ищется с 7
+
+2
+_024027 cancel line in the SO and create SI
+The button/command with <Sales invoice> header is not found.
+Кнопка / команда с заголовком <Счет-фактура> не найдена.
+Т.к. выпало окно о том, что не удлось провести Sales order
+
+3
+_0250RetailDocuments
+_0154149 create Cash statement
+ Form table named <List> is not found
+Таблица формы с именем <List> не найдена
+У нас имя формы ItemList
+
+4
+_015450 check message output for SO when trying to create a purchase order/SC 
+Expected number of lines in <BasisesTree> table is равно 0 and actual number is <2>.
+Ожидаемое количество строк в таблице <BasisesTree> равно 0, а фактическое количество - <2>
+Then the number of "BasisesTree" table lines is "равно" 0
+Тогда количество строк таблицы BasisesTree равно "равно" 0
+У нас строка по отбору нашлась
+
+5
+_092003 check serial lot number in the Retail return receipt 
+Таблица не соответствует эталону. Значения колонок "Period" и "Branch" различаются
+ 
+6
+_2060018 check link form in the PI with 2 lines with the same items 
+Unable to move to the required line in <BasisesTree> table.
+Невозможно перейти на нужную строку в таблице <BasisesTree>
+Не найдена строка по заданным параметрам.
+
+7
+_970001 filling in test data base
+Error calling context method (ExecuteCommand):
+Ошибка вызова контекстного метода (ExecuteCommand)
+ошибки произошли при проверке заполнения данных.. 
+
+
+
+
